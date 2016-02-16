@@ -8,7 +8,7 @@ SievePWN is set of android applications which are used to exploit sieve applicat
 * Bypass sieve authentication by direct accessing the exported Activity component.
 
 ####Sievedt
-* Exploit content providers component through ParcelFileDescriptor openFile.
+* Exploit content providers component using Directory Traversal Technique through ParcelFileDescriptor openFile.
 
 ####Sieveleak
 * Exploit exported component through content providers.
